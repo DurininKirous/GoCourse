@@ -19,6 +19,7 @@ func Contains(a []string, x string) bool {
 	}
 	return res
 }
+
 func GetMax(elements ...int) (max int) {
 	for _, element := range elements {
 		if element > max {
