@@ -17,7 +17,7 @@ func main() {
 	out, _ := os.OpenFile(outPath, os.O_RDWR|os.O_CREATE, 0644)
 	defer out.Close()
 	s := bufio.NewReader(in)
-	var countRows int = 1
+	var countRows int
 	for {
 		line, err := s.ReadString('\n')
 		parts := StringSplit(line)

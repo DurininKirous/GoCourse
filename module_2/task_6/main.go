@@ -16,7 +16,7 @@ func main() {
 	out, _ := os.OpenFile("./data/06_task_out.txt", os.O_RDWR|os.O_CREATE, 0644)
 	defer out.Close()
 	s := bufio.NewReader(in)
-	var countRows int = 1
+	var countRows int
 	var countBytes int
 	var str string
 	for {
