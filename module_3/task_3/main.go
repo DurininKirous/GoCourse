@@ -6,7 +6,7 @@ import (
 	"task_3/durininkirous"
 	"task_3/wordz"
 
-	"github.com/DurininKirous/GoCourse/utils"
+	"github.com/DurininKirous/utils"
 	"github.com/huandu/xstrings"
 )
 
