@@ -1,8 +1,6 @@
 package durininkirous
 
-import (
-	"wordz"
-)
+import "module_3/task_1/wordz"
 
 func Digit() string {
 	cities := map[string]string{

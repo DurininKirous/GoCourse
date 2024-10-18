@@ -1,11 +1,10 @@
 package main
 
 import (
-	"durininkirous"
 	"fmt"
+	"module_3/task_1/durininkirous"
 )
 
 func main() {
 	fmt.Println(durininkirous.City(), durininkirous.Digit())
-
 }
