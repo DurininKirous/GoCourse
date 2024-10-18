@@ -8,10 +8,15 @@ import (
 
 	"github.com/DurininKirous/utils"
 	utilsV2 "github.com/DurininKirous/utils/v2"
+	utilsV3 "github.com/DurininKirous/utils/v3"
 	"github.com/huandu/xstrings"
 )
 
 func main() {
+	isExistV3 := utilsV3.InSlice("three", wordz.Words)
+	if isExistV3 {
+		fmt.Println("Using utilsV3.InSlice and find value")
+	}
 	isExistV2 := utilsV2.InSlice("two", wordz.Words)
 	if isExistV2 {
 		fmt.Println("Using utilsV2.InSlice and find value")

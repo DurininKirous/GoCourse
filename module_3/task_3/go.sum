@@ -2,5 +2,7 @@ github.com/DurininKirous/utils v1.1.0 h1:TJGFy3L56x3TeteVPc5BFBpR4s6QSR/HrhTU/Go
 github.com/DurininKirous/utils v1.1.0/go.mod h1:IBDRkPtTPa1SkpPdOAnAWaQVdGdwMWQmp8fHLlW8SQk=
 github.com/DurininKirous/utils/v2 v2.0.0 h1:t+/DsdERXssk9CgAfGM1nFYdaviI0kCnCGO6yzctUmQ=
 github.com/DurininKirous/utils/v2 v2.0.0/go.mod h1:DJs4AHBiwqhmKW0KShx23vHVzA6b/MsBK9oNMM7fE8A=
+github.com/DurininKirous/utils/v3 v3.0.0 h1:O4gnlm5PnA6VSW8j5WqFJzCiiArovwL80z4l/hcS4Oo=
+github.com/DurininKirous/utils/v3 v3.0.0/go.mod h1:2xI1Pvb/GoMW/AwuX8EowVYvmhbVh3aDSe30a+UCMLc=
 github.com/huandu/xstrings v1.5.0 h1:2ag3IFq9ZDANvthTwTiqSSZLjDc+BedvHPAp5tJy2TI=
 github.com/huandu/xstrings v1.5.0/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
