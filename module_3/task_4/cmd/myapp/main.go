@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"module_4/task_4/internal/durininkirous"
+	"module_3/task_4/internal/durininkirous"
 
 	xstrings "github.com/huandu/xstrings"
 )

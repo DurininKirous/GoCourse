@@ -1,6 +1,6 @@
 package durininkirous
 
-import "module_4/task_4/pkg/wordz"
+import "module_3/task_4/pkg/wordz"
 
 func City() string {
 	cities := map[string]string{
